@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Colors -->
+    <color name="background_primary">#2C3E50</color>   <!-- Dark blue-grey background -->
+    <color name="button_primary">#3498DB</color>       <!-- Bright blue for primary buttons -->
+
+    <!-- Game Colors - More distinct and vibrant -->
+    <color name="game_red">#E74C3C</color>            <!-- Bright red -->
+    <color name="game_blue">#3498DB</color>           <!-- Bright blue -->
+    <color name="game_green">#2ECC71</color>          <!-- Bright green -->
+    <color name="game_yellow">#F1C40F</color>         <!-- Golden yellow -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>         <!-- White text -->
+    <color name="text_secondary">#ECF0F1</color>      <!-- Light grey text -->
+
+    <!-- Button Colors -->
+    <color name="button_play">#27AE60</color>         <!-- Green play button -->
+    <color name="button_highscore">#E67E22</color>    <!-- Orange high score button -->
+</resources>
